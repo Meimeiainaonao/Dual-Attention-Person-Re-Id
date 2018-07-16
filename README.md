@@ -1,7 +1,7 @@
 # Dual-Attention-Person-Re-Id
 Project Work - Person Reid by dual attention mechanism
 
-# Data Preparation
+### Data Preparation
 
 Download and extract datasets iLIDS-VID, PRID2011 and MARS into the data/ directory. data/iLIDS-VID for example.
 
