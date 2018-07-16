@@ -9,10 +9,10 @@ Modify and run data/computeOpticalFlow.m with Matlab to generate Optical Flow da
 
 ### Training
 
-Run this command for training iLIDS-VID. To train other datasets, change options -dataset.
+Run this command for training iLIDS-VID.
 
 python main.py
-You can change the parameters according to your wish.
+
 
 ### Model explanation
 
